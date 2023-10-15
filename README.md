@@ -1,4 +1,5 @@
-# Anamika Verma - Frontend Developer [Portfolio](https://anamika-io.github.io/Portfolio/)
+# Anamika Verma - Frontend Developer Portfolio
+## [View](https://anamika-io.github.io/Portfolio/)
 
 ## Introduction
 
